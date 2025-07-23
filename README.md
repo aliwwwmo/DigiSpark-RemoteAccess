@@ -22,7 +22,9 @@ This project contains a code snippet written for the DigiSpark microcontroller, 
 - **Virus Alerts**: The actions performed by this script may trigger antivirus alerts due to its nature. Use with caution.
 
 ## YouTube Video
-For a detailed walkthrough of the project, including setup and execution, check out my YouTube video: [هک کامپیوتر با USB دیجی‌ اسپارک | آموزش Bad USB | هک ویندوز با متاسپلویت](https://youtu.be/RmiWn_XhvTg).
+For a detailed walkthrough of the project, including setup and execution, check out my YouTube video:
+
+[![Watch on YouTube](https://img.youtube.com/vi/RmiWn_XhvTg/maxresdefault.jpg)](https://youtu.be/RmiWn_XhvTg)
 
 
 In the video, I demonstrate how to upload the code to the DigiSpark, connect it to a Windows machine, and explain the functionalities of the script. Don't forget to like, subscribe, and leave your feedback!
